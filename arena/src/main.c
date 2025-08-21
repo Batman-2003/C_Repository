@@ -97,8 +97,6 @@ int main(void) {
         v_resetArena(arena1_p);
         v_printArena(arena1_p);
         v_destroyArena(arena1_p);
-        v_printArena(arena1_p);
-        v_printNode(node3_p);
     }
     
     return 0;
